@@ -1,0 +1,14 @@
+#section-four{
+    background-image: linear-gradient(to bottom, #fff 50%,#F4F4F4 50%);
+}
+#date,#location,#place{
+    padding: 15px 25px;
+    font-style: 12px !important;
+    outline: none;
+    border: 1px solid #DBDBDB;
+    border-radius: 5px;
+}
+#date option,#location option,#place option{
+    border: none !important;
+    outline: none !important;
+}

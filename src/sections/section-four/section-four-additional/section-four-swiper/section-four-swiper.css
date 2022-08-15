@@ -1,0 +1,33 @@
+/* .SectionFourSwiper {
+  height: max-content !important;
+} */
+
+.sectionFourSwiper .swiper-slide {
+  position: relative;
+  height: 310px;
+  overflow: hidden;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 10px;
+
+
+  /* Center slide text vertically */
+  /* display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center; */
+}
+
+.sectionFourSwiper .swiper-slide > img{
+    border-radius: 10px;
+}

@@ -1,0 +1,22 @@
+export const navLinks = [
+    {
+        name:"Destinations",
+        to:"/destinations"
+    },
+    {
+        name:"Activities",
+        to:"/activities"
+    },
+    {
+        name:"About",
+        to:"/about"
+    },
+    {
+        name:"Contact",
+        to:"/contact"
+    },
+    {
+        name:"profile",
+        to:"/profile"
+    }
+]
